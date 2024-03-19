@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js, Vue.js ,Node.js & more...**
 
-- 👨‍💻 All of my projects are available at [Github](Github)
+- 👨‍💻 All of my projects are available at [NinjaCoderDotCom](Github)
 
 - 💬 Ask me about **React, JS, HTML, CSS and libraries like bootstrap.**
 
